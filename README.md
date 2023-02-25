@@ -8,7 +8,7 @@
 
 # List
 
-| Problems           | Soutions                                                                                                                          |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Two Sum         | - [Two Sum](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/1.%20Two%20Sum.js)                   |
-| 2. Add Two Numbers | - [Add Two Numbers](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/2.%20Add%20Two%20Numbers.js) |
+| Problems           | Soutions                                                                                                                   |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| 1. Two Sum         | - [Two Sum](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/1.Two-Sum.js)                 |
+| 2. Add Two Numbers | - [Add Two Numbers](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/2.Add-Two-Numbers.js) |
