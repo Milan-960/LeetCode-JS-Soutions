@@ -16,4 +16,4 @@
 |                                                   |
 | 3. Longest Substring Without Repeating Characters | - [Longest Substring Without Repeating Characters](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/3.Longest-Substring-Without-Repeating-Characters.js) | $\color{Yellow}{Medium}$ |
 |                                                   |
-| 4. Median of Two Sorted Arrays                    | - [Median of Two Sorted Arrays ](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/3.Longest-Substring-Without-Repeating-Characters.js)                   | $\color{Red}{Hard}$      |
+| 4. Median of Two Sorted Arrays                    | - [Median of Two Sorted Arrays ](https://github.com/Milan-960/LeetCode-JS-Soutions/blob/main/LeetCode-JS/Problems/4.Median-of-Two-Sorted-Arrays.js)                                      | $\color{Red}{Hard}$      |
